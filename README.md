@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍⚖️ Pedro Henrique
 
-<!--
-**pedrocorreiahs/pedrocorreiahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Advogado com formação técnica e foco em transição para a área de dados.  
+💡 Experiência com BI, automação e projetos públicos como o Escola Tech.  
+📊 Interesse em Legal Analytics, LGPD, Ciência de Dados e Logística Operacional.
 
-Here are some ideas to get you started:
+📌 Atualmente desenvolvendo projetos em Python, Power BI e análise de dados aplicados ao setor jurídico e operacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 Em andamento:
+
+- 📍 Dashboard Jurídico em Power BI
+- 📍 Mini projeto de análise de boletins de ocorrência (Python + Pandas)
+- 📍 Repositório de estudos em lógica de programação
+
+---
+
+📫 Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/pedro-henrique-363943350/)
+
+
+  <!--
+
